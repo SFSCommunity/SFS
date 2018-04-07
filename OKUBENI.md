@@ -12,7 +12,10 @@ Bu süreçte bu yazıyı blog veya github gibi yerlerde okuma kıymetini göster
 Daha fazla bilgi için bizlere aşağıdaki adreslerden ulaşabilirsiniz.
 
 Web Adresimiz: [www.sfscommunity.org](https://www.sfscommunity.org)
+
 E-mail Adresimiz: [info@sfscommunity.org](info@sfscommunity.org)
+
 Telegram Kanalımız: [@SFSCommunity](https://t.me/SFSCommunity)
+
 Twitter Adresimiz: [@sfscommunityorg](https://twitter.com/sfscommunityorg)
 
